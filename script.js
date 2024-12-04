@@ -17,7 +17,7 @@ document.getElementById("telegramForm").addEventListener("submit", function (e) 
     `;
 
     // Настройки Telegram API
-    const TOKEN = "1749907475:AAHwE4OCy0-UeGyrS9qWr4yGjO6sjWOmt5k";
+    const TOKEN = "7480344234:AAFd_YEe0tEgPK8mVIhUEpKEB2fGbPfZQz0";
     const CHAT_ID = "113740578";
     const URL = `https://api.telegram.org/bot${TOKEN}/sendMessage`;
 
